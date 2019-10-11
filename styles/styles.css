@@ -1,11 +1,11 @@
 body{
-  text-align: center:
+  text-align: center;
   color:black;
   background-image: linear-gradient(orange, #F535AA, #6C2DC7);
   font-family: "comic sans ms";
   color: cyan;
 }
 h1 {
-  text-align: center:
   color: white;
+  text-align: center;
 }
