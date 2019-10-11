@@ -1,11 +1,14 @@
 body{
   text-align: center;
   color:black;
-  background-image: linear-gradient(orange, #F535AA, #6C2DC7);
-  font-family: "comic sans ms";
-  color: cyan;
+  background-image: linear-gradient(#d9d9d9, white);
+  font-family: "Century Gothic";
+  font-weight: 800
+  color: black;
 }
 h1 {
-  color: white;
+  background: -webkit-linear-gradient(#1a1aff,#29a3a3,#00994d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
   text-align: center;
 }
