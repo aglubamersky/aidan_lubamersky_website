@@ -1,11 +1,58 @@
-body{
-  text-align: center:
-  color:black;
-  background-image: linear-gradient(orange, #F535AA, #6C2DC7);
-  font-family: "comic sans ms";
-  color: cyan;
+body {
+    text-align: center;
+    color: black;
+    background-image: linear-gradient(#c1bfbf, #d1d4d4, white);
+    font-family: "Century Gothic";
+    font-weight: 800 color: black;
 }
-h1 {
-  text-align: center:
-  color: white;
+
+h1,
+h2 {
+    background: -webkit-linear-gradient(#1a1aff, #29a3a3, #00994d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    font-size: 50px
+}
+
+a {
+    background-color: #8d8989;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+}
+
+a:hover {
+    background-color: white;
+}
+
+a:visited {
+    color: black;
+}
+
+a:active {
+    color: black;
+    background-color: black;
+}
+
+
+table,
+td,
+th {
+    border: 5px double black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 6px;
+
+}
+
+td:hover {
+    background-color: #d1d4d4;
+}
+
+img {
+    border-radius: 8px;
 }
